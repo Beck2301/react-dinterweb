@@ -11,7 +11,7 @@ function DinterwebPage2() {
                     </div>
                     <div class="pl-4 pr-4 md:flex-1 m-auto  md:text-center">
                         <h1 className='text-8xl mb-7'>Pagina 2</h1>
-                        <Link to='/'>
+                        <Link to='/react-dinterweb'>
                             <button class="px-10 py-3 mt-4 text-base text-white bg-red-500  rounded-3xl mr-2" >Ir a pagina 1</button>
                         </Link>
 

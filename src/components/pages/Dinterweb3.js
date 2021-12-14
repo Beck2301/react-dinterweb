@@ -14,7 +14,7 @@ function Dinterweb3() {
                     <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/smiling-face-with-sunglasses_1f60e.png" alt="" className='m-auto w-14 mt-5' />
                 </div>
                 <div className='m-auto text-center mt-20'>
-                <Link to='/'>
+                <Link to='/react-dinterweb'>
                     <button class="px-10 py-3 mt-4 text-base text-white bg-red-500  rounded-3xl mr-2" >Ir a pagina 1</button>
                 </Link>
 
