@@ -1,17 +1,17 @@
 import React, { useEffect } from 'react'
-import Me from '../Me'
+import DinterwebPage1 from '../DinterwebPage1';
 
-function Bedev() {
+function Dinterweb() {
     useEffect(() => {
         window.scrollTo({ top: 0 })
         return () => { window.scrollTo({ top: 0 }) };
     }, [])
     return (
         <>
-            <Me />
+            <DinterwebPage1 />
         </>
     )
 }
 
-export default Bedev
+export default Dinterweb
 

@@ -40,3 +40,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.emoji{
+  position: absolute;
+  top: -16px;
+  left: 74%;
+  right: 0;
+  bottom: 0;
+}

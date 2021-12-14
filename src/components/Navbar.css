@@ -51,7 +51,7 @@
     width: 60vw;
     justify-content: end;
     margin-right: 2rem;
-    height: 850px;
+    height: 25rem;
   }
   
   /* .nav-item {
@@ -69,7 +69,7 @@
   }
   
   .nav-links:hover {
-    border-bottom: 1px solid rgb(240, 176, 0);
+    border-bottom: 1px solid rgb(240, 68, 0);
     transition: all 0.2s ease-out;
   }
 
@@ -118,7 +118,7 @@
     }
   
     .nav-links {
-      text-align: center;
+      text-align: right;
       padding: 2rem;
       width: 100%;
       display: table;

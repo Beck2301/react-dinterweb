@@ -3,16 +3,13 @@ import React from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import './App.css';
 
-import Bedev from './components/pages/Bedev';
+
+import Dinterweb from './components/pages/Dinterweb';
+import Dinterweb2 from './components/pages/Dinterweb2';
+import Dinterweb3 from './components/pages/Dinterweb3';
 import Navbar from './components/Navbar'
-import About from './components/pages/About';
-import Projects from './components/pages/Projects';
-import Site1 from './components/Site1';
-import Site2 from './components/Site2';
-import Site4 from './components/Site4';
-import Site5 from './components/Site5';
 import NotFound from './components/pages/NotFound';
-import Contact from './components/pages/Contact';
+
 
 
 function App() {
@@ -21,14 +18,9 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/' exact component={Bedev}></Route>
-          <Route path='/about' component={About}></Route>
-          <Route path='/projects'component={Projects}></Route>
-          <Route path='/wlh' component={Site1}></Route>
-          <Route path='/covid19sv' component={Site2}/>
-          <Route path='/marktech' component={Site4}></Route>
-          <Route path='/on-the-rocks' component={Site5}></Route>
-          <Route path='/contact' component={Contact}></Route>
+          <Route path='/' exact component={Dinterweb}></Route>
+          <Route path='/Dinterweb2' component={Dinterweb2}></Route>
+          <Route path='/Dinterweb3' component={Dinterweb3}></Route>
           <Route component={NotFound} />
         </Switch>
       </Router>
