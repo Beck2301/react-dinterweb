@@ -27,7 +27,7 @@ function Navbar() {
     <>
       <nav className='navbar bg-white'>
         <div className='navbar-container'>
-          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/react-dinterweb' className='navbar-logo' onClick={closeMobileMenu}>
             <img src="https://www.dinterweb.com/wp-content/uploads/2021/04/logo.png" className="" alt="" />
            
           </Link>
