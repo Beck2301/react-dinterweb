@@ -18,7 +18,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/' exact component={Dinterweb}></Route>
+          <Route path='/react-dinterweb' exact component={Dinterweb}></Route>
           <Route path='/Dinterweb2' component={Dinterweb2}></Route>
           <Route path='/Dinterweb3' component={Dinterweb3}></Route>
           <Route component={NotFound} />
