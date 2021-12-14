@@ -42,12 +42,12 @@ function Navbar() {
                 className='nav-links  font-bold md:text-7xl '
                 onClick={closeMobileMenu}
               >
-                Pagina 1
+                Página 1
               </Link>
             </li>
             <li className='nav-item bg-white '>
               <Link to='/Dinterweb2' className='nav-links  font-bold md:text-7xl' onClick={closeMobileMenu}>
-              Pagina 2
+              Página 2
               </Link>
             </li>
             <li className='nav-item bg-white'>
@@ -56,7 +56,7 @@ function Navbar() {
                 className='nav-links  font-bold md:text-7xl '
                 onClick={closeMobileMenu}
               >
-                  Pagina 3
+                  Página 3
               </Link>
             </li>
 
