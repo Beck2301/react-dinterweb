@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-dinterweb/static/css/main.fbf307ba.chunk.css",
+    "main.js": "/react-dinterweb/static/js/main.98ffc531.chunk.js",
+    "main.js.map": "/react-dinterweb/static/js/main.98ffc531.chunk.js.map",
+    "runtime-main.js": "/react-dinterweb/static/js/runtime-main.0a75061a.js",
+    "runtime-main.js.map": "/react-dinterweb/static/js/runtime-main.0a75061a.js.map",
+    "static/js/2.347296b6.chunk.js": "/react-dinterweb/static/js/2.347296b6.chunk.js",
+    "static/js/2.347296b6.chunk.js.map": "/react-dinterweb/static/js/2.347296b6.chunk.js.map",
+    "index.html": "/react-dinterweb/index.html",
+    "static/css/main.fbf307ba.chunk.css.map": "/react-dinterweb/static/css/main.fbf307ba.chunk.css.map",
+    "static/js/2.347296b6.chunk.js.LICENSE.txt": "/react-dinterweb/static/js/2.347296b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a75061a.js",
+    "static/js/2.347296b6.chunk.js",
+    "static/css/main.fbf307ba.chunk.css",
+    "static/js/main.98ffc531.chunk.js"
+  ]
+}
