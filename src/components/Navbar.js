@@ -38,7 +38,7 @@ function Navbar() {
           <ul className={click ? 'nav-menu active bg-white' : 'nav-menu' } >
           <li className='nav-item  bg-white'>
               <Link
-                to='/'
+                to='/react-dinterweb'
                 className='nav-links  font-bold md:text-7xl '
                 onClick={closeMobileMenu}
               >
