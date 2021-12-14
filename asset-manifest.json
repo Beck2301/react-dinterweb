@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-dinterweb/static/css/main.fbf307ba.chunk.css",
-    "main.js": "/react-dinterweb/static/js/main.5d9aa209.chunk.js",
-    "main.js.map": "/react-dinterweb/static/js/main.5d9aa209.chunk.js.map",
+    "main.js": "/react-dinterweb/static/js/main.bdf7cc8d.chunk.js",
+    "main.js.map": "/react-dinterweb/static/js/main.bdf7cc8d.chunk.js.map",
     "runtime-main.js": "/react-dinterweb/static/js/runtime-main.0a75061a.js",
     "runtime-main.js.map": "/react-dinterweb/static/js/runtime-main.0a75061a.js.map",
     "static/js/2.347296b6.chunk.js": "/react-dinterweb/static/js/2.347296b6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0a75061a.js",
     "static/js/2.347296b6.chunk.js",
     "static/css/main.fbf307ba.chunk.css",
-    "static/js/main.5d9aa209.chunk.js"
+    "static/js/main.bdf7cc8d.chunk.js"
   ]
 }
