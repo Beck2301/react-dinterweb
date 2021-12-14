@@ -2,6 +2,7 @@
   "name": "react-dinterweb",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://beck2301.github.io/react-dinterweb",
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@testing-library/jest-dom": "^5.14.1",
@@ -18,8 +19,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",  
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
